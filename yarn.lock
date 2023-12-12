@@ -1743,9 +1743,9 @@ grunt-exec@^1.0.1:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/grunt-exec/-/grunt-exec-1.0.1.tgz#e5d53a39c5f346901305edee5c87db0f2af999c4"
 
-grunt-karma@^3.0.2:
-  version "3.0.2"
-  resolved "https://registry.yarnpkg.com/grunt-karma/-/grunt-karma-3.0.2.tgz#4f14386d43ee45f8f6b98081862e4910f5056764"
+grunt-karma@^4.0.2:
+  version "4.0.2"
+  resolved "https://registry.yarnpkg.com/grunt-karma/-/grunt-karma-4.0.2.tgz#4f14386d43ee45f8f6b98081862e4910f5056764"
   dependencies:
     lodash "^4.17.10"
 
