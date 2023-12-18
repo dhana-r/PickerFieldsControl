@@ -420,7 +420,7 @@ body-parser@^1.16.1:
   dependencies:
     bytes "2.4.0"
     content-type "~1.0.2"
-    debug "2.6.1"
+    debug "2.6.9"
     depd "~1.1.0"
     http-errors "~1.6.1"
     iconv-lite "0.4.15"
@@ -902,13 +902,13 @@ dateformat@~1.0.12:
     get-stdin "^4.0.1"
     meow "^3.3.0"
 
-debug@0.7.4:
-  version "0.7.4"
-  resolved "https://registry.yarnpkg.com/debug/-/debug-0.7.4.tgz#06e1ea8082c2cb14e39806e22e2f6f757f92af39"
+debug@2.6.9:
+  version "2.6.9"
+  resolved "https://registry.yarnpkg.com/debug/-/debug-2.6.9.tgz#06e1ea8082c2cb14e39806e22e2f6f757f92af39"
 
 debug@2:
-  version "2.6.1"
-  resolved "https://registry.yarnpkg.com/debug/-/debug-2.6.1.tgz#79855090ba2c4e3115cc7d8769491d58f0491351"
+  version "2.6.9"
+  resolved "https://registry.yarnpkg.com/debug/-/debug-2.6.9.tgz#79855090ba2c4e3115cc7d8769491d58f0491351"
   dependencies:
     ms "0.7.2"
 
@@ -930,9 +930,9 @@ debug@4:
   dependencies:
     ms "^2.1.1"
 
-debug@^2.2.0:
-  version "2.2.0"
-  resolved "https://registry.yarnpkg.com/debug/-/debug-2.2.0.tgz#f87057e995b1a1f6ae6a4960664137bc56f039da"
+debug@^2.6.9:
+  version "2.6.9"
+  resolved "https://registry.yarnpkg.com/debug/-/debug-2.6.9.tgz#f87057e995b1a1f6ae6a4960664137bc56f039da"
   dependencies:
     ms "0.7.1"
 
@@ -1264,7 +1264,7 @@ expand-brackets@^2.1.4:
   version "2.1.4"
   resolved "https://registry.yarnpkg.com/expand-brackets/-/expand-brackets-2.1.4.tgz#b77735e315ce30f6b6eff0f83b04151a22449622"
   dependencies:
-    debug "^2.3.3"
+    debug "^2.6.9"
     define-property "^0.2.5"
     extend-shallow "^2.0.1"
     posix-character-classes "^0.1.0"
@@ -1313,7 +1313,7 @@ extract-zip@~1.5.0:
   resolved "https://registry.yarnpkg.com/extract-zip/-/extract-zip-1.5.0.tgz#92ccf6d81ef70a9fa4c1747114ccef6d8688a6c4"
   dependencies:
     concat-stream "1.5.0"
-    debug "0.7.4"
+    debug "2.6.9"
     mkdirp "0.5.0"
     yauzl "2.4.1"
 
@@ -1964,7 +1964,7 @@ http-proxy-agent@^2.1.0:
   resolved "https://registry.yarnpkg.com/http-proxy-agent/-/http-proxy-agent-2.1.0.tgz#cc1ce38e453bf984a0f7702d2dd59c73d081284a"
   dependencies:
     agent-base "2"
-    debug "2"
+    debug "4"
     extend "3"
 
 http-proxy-agent@^4.0.1:
@@ -1996,7 +1996,7 @@ https-proxy-agent@^2.2.0:
   resolved "https://registry.yarnpkg.com/https-proxy-agent/-/https-proxy-agent-2.2.0.tgz#35f7da6c48ce4ddbfa264891ac593ee5ff8671e6"
   dependencies:
     agent-base "2"
-    debug "2"
+    debug "4"
     extend "3"
 
 iconv-lite@0.4.24, iconv-lite@^0.4.4:
@@ -3785,7 +3785,7 @@ snapdragon@^0.8.1:
   resolved "https://registry.yarnpkg.com/snapdragon/-/snapdragon-0.8.2.tgz#64922e7c565b0e14204ba1aa7d6964278d25182d"
   dependencies:
     base "^0.11.1"
-    debug "^2.2.0"
+    debug "^2.6.9"
     define-property "^0.2.5"
     extend-shallow "^2.0.1"
     map-cache "^0.2.2"
@@ -4208,7 +4208,7 @@ typings-core@^2.3.3:
   dependencies:
     array-uniq "^1.0.2"
     configstore "^3.0.0"
-    debug "^2.2.0"
+    debug "^2.6.9"
     detect-indent "^5.0.0"
     graceful-fs "^4.1.2"
     has "^1.0.1"
