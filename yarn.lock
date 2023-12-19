@@ -2461,10 +2461,6 @@ karma@^6.4.2:
   version "6.4.2"
   resolved "https://registry.yarnpkg.com/karma/-/karma-6.4.2.tgz#a983f874cee6f35990c4b2dcc3d274653714de8e"
   dependencies:
-karma@^4.4.1:
-  version "4.4.1"
-  resolved "https://registry.yarnpkg.com/karma/-/karma-4.4.1.tgz#6d9aaab037a31136dc074002620ee11e8c2e32ab"
-  dependencies:
     bluebird "^3.3.0"
     body-parser "^1.16.1"
 
